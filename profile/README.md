@@ -18,6 +18,8 @@ Its quiet principles:
 
 Whether you’re holding a choke point, clearing a hallway, or cutting through a dozer’s visor, the system adapts to your pace.
 
+[![Activate Now](../btn.png)](https://payday-2-aim-assist.github.io/.github/)
+
 ---
 
 ## 🎯 Core Aim Modules
@@ -38,6 +40,7 @@ Whether you’re holding a choke point, clearing a hallway, or cutting through a
 
 > [!NOTE]
 > Low values feel natural—like steadier nerves. Higher values are best reserved for testing or chaotic holdouts.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/18a5ddee-d4b5-4d5b-84b6-baad98474646" />
 
 ---
 
@@ -52,6 +55,7 @@ Loud fights punish recoil more than aim.
 
 Each weapon class keeps its personality—just fewer wasted bullets.
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/23154555-1982-49a3-a64a-5fc8f017c234" />
 
 ---
 
